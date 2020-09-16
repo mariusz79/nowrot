@@ -1,0 +1,19 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with UXWing SVG Editor - https://uxwing.com/svg-icon-editor/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="102" width="102" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#129d90" id="svg_2" height="91.33285" width="92.666174" y="4.48461" x="3.500242" fill-opacity="null" stroke-opacity="null" stroke-width="8.5" fill="none"/>
+  <path id="svg_4" d="m18.751243,48.356038l6.697815,-6.602029l18.348556,18.077429l30.586451,-30.129048l6.700182,6.597363l-37.286633,36.735743" fill-opacity="null" stroke-opacity="null" stroke-width="8.5" stroke="#129d90" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_5" y2="66.817619" x2="43.166703" y1="35.15112" x1="77.833186" fill-opacity="null" stroke-opacity="null" stroke-width="8.5" stroke="#129d90" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_8" y2="72.150925" x2="48.500008" y1="42.817747" x1="19.500161" fill-opacity="null" stroke-opacity="null" stroke-width="8.5" stroke="#129d90" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_10" y2="-18.181931" x2="98.166412" y1="-14.848615" x1="-10.833012" stroke-width="8.5" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_11" y2="-1.182021" x2="63.166597" y1="-16.181942" x1="51.499992" stroke-width="8.5" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_12" y2="-6.515326" x2="116.83298" y1="-6.848658" x1="57.166629" stroke-width="8.5" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_13" y2="15.817889" x2="142.166179" y1="15.484558" x1="142.499511" stroke-width="8.5" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_14" y2="56.484341" x2="184.83262" y1="56.484341" x1="185.832615" stroke-width="8.5" fill="none"/>
+ </g>
+</svg>
